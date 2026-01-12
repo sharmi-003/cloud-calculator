@@ -14,7 +14,6 @@ body {
     font-size: 18px;
     margin-bottom: 10px;
 }
-
 .buttons button {
     width: 60px;
     height: 40px;
@@ -22,8 +21,7 @@ body {
     font-size: 16px;
 }
 
-.equal {
-    width: 190px;
     background-color: green;
     color: white;
 }
+
